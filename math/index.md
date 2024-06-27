@@ -1,7 +1,10 @@
+<script type="text/x-mathjax-config">MathJax.Hub.Config({tex2jax:{inlineMath:[['\$','\$'],['\\(','\\)']],processEscapes:true},CommonHTML: {matchFontHeight:false}});</script>
+<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
 # 数学PDF集
 
-[星状開集合は $R^n$ と微分同相](https://github.com/tko919/PDF-Storage/blob/main/OpenStarShaped.pdf)
+[星状開集合は $R^n$ と微分同相](https://tko919.github.io/PDF-Storage/OpenStarShaped.pdf)
 
-[Riemann幾何](https://github.com/tko919/PDF-Storage/blob/main/RiemannianGeometry.pdf)
+[Riemann幾何](https://tko919.github.io/PDF-Storage/RiemannianGeometry.pdf)
 
-[素数カウント](https://github.com/tko919/PDF-Storage/blob/main/PrimeCount.pdf)
+[素数カウント](https://tko919.github.io/PDF-Storage/PrimeCount.pdf)
