@@ -3,8 +3,10 @@
 
 # 数学PDF集
 
-[星状開集合は $R^n$ と微分同相](https://tko919.github.io/PDF-Storage/OpenStarShaped.pdf)
+[星状開集合は $\mathbb{R}^n$ と微分同相](https://tko919.github.io/PDF-Storage/OpenStarShaped.pdf)
 
 [Riemann幾何](https://tko919.github.io/PDF-Storage/RiemannianGeometry.pdf)
 
 [素数カウント](https://tko919.github.io/PDF-Storage/PrimeCount.pdf)
+
+[TOP PAGE](https://tko919.github.io)
