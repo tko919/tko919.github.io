@@ -4,16 +4,14 @@
 
 ## 数学
 - 微分幾何をメインに色々触っています.
-
-[PDF集](math/index.md)
+- [PDF集](math/index.md)
 
 
 ## 競技プログラミング
 
-[AtCoder](https://atcoder.jp/users/TKO)
-- highest:2322
-
-[Library](https://tko919.github.io/library/)
+- [AtCoder](https://atcoder.jp/users/TKO)
+    - highest:2322
+- [Library](https://tko919.github.io/library/)
 
 ## 音ゲー
 - beatmania IIDX(SP皆伝,ID:7235-3197)
