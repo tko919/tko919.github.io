@@ -1,10 +1,21 @@
-# 保管庫
+# 自己紹介
+
+- 京都大学理学部数理科学系 B4(2021年入学)
+
+## 数学
+- 微分幾何をメインに色々触っています.
+
+[PDF集](math/index.md)
+
 
 ## 競技プログラミング
 
 [AtCoder](https://atcoder.jp/users/TKO)
+- highest:2322
 
 [Library](https://tko919.github.io/library/)
 
-## 数学
-[PDF集](math/index.md)
+## 音ゲー
+- beatmania IIDX(SP皆伝,ID:7235-3197)
+    - [クリアランプ](https://sp12.iidx.app/sheets/7235-3197/hard)
+- BMS(SP★07)
