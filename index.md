@@ -10,7 +10,7 @@
 
 - [AtCoder](https://atcoder.jp/users/TKO)
     - highest:2330
-- ICPC (Team:Red Phobia)
+- ICPC (Team: Red Phobia)
     - 2023 Yokohama Regional: 12th
     - 2024 Asia Pacific Championship: 13rd
 - [Library](https://tko919.github.io/library/)
@@ -19,3 +19,4 @@
 - beatmania IIDX(SP皆伝,ID:7235-3197)
     - [クリアランプ](https://sp12.iidx.app/sheets/7235-3197/hard)
 - BMS(SP★07)
+
