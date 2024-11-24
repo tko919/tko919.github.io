@@ -12,7 +12,7 @@
     - highest:2330
 - ICPC (Team: Red Phobia)
     - 2023 Yokohama Regional: 12th
-    - 2024 Asia Pacific Championship: 13rd
+    - 2024 Asia Pacific Championship: 13th
 - [Library](https://tko919.github.io/library/)
 
 ## 音ゲー
