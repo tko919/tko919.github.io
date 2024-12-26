@@ -13,6 +13,7 @@
 - ICPC (Team: Red Phobia)
     - 2023 Yokohama Regional: 12th
     - 2024 Asia Pacific Championship: 13th
+    - 2024 Yokohama Regional: 6th
 - [Library](https://tko919.github.io/library/)
 
 ## 音ゲー
