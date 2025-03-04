@@ -1,7 +1,7 @@
 # 自己紹介
 
 - 京都大学理学部数理科学系 B4
-- Twitter: [@tko919_](https://x.com/tko919_)
+- [Twitter](https://x.com/tko919_)
 
 ## 数学
 - 微分幾何をメインに色々触っています. 最近はSeiberg-Witten theoryや指数定理など.
