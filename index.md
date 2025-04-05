@@ -9,15 +9,15 @@
 
 ## 競技プログラミング
 
-- [AtCoder](https://atcoder.jp/users/TKO)
-    - highest: 2330
+- [![TKO](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FTKO)](https://atcoder.jp/users/TKO)
+- [![tko919](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fcodeforces%2Fjson%2Ftko919)](https://codeforces.com/profile/tko919)
+- ![Project Euler](https://projecteuler.net/profile/tko919.png)
 - ICPC (Team: Red Phobia)
     - 2023 Yokohama Regional: 12th
     - 2024 Asia Pacific Championship: 13th
     - 2024 Yokohama Regional: 6th
     - 2025 Asia Pacific Championship: 15th
 - [Library](https://tko919.github.io/library/)
-- ![Project Euler](https://projecteuler.net/profile/tko919.png)
 - [はてなブログ(参加記)](https://tk0-math.hatenablog.com/)
 
 ## 音ゲー
