@@ -17,6 +17,7 @@
     - 2024 Yokohama Regional: 6th
     - 2025 Asia Pacific Championship: 15th
 - [Library](https://tko919.github.io/library/)
+- ![Project Euler](https://projecteuler.net/profile/tko919.png)
 - [はてなブログ(参加記)](https://tk0-math.hatenablog.com/)
 
 ## 音ゲー
