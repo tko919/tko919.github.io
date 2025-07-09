@@ -2,9 +2,11 @@
 
 - 京都大学大学院理学研究科数学教室 M1
 - [Twitter](https://x.com/tko919_)
+- [mixi2](https://mixi.social/@tko919)
+    - 自分が認知している人々は大方通します.
 
 ## 数学
-- 微分幾何をメインに色々触っています. 最近はSeiberg-Witten theoryや指数定理など.
+- 微分幾何をメインに色々触っています. 最近はSeiberg-Witten theory, Floer homologyなど.
 - [PDF集](math/index.md)
 
 ## 競技プログラミング
