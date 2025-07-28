@@ -11,5 +11,7 @@
 
 [Cheegerの有限性定理](https://tko919.github.io/PDF-Storage/cheeger.pdf)
 
+[Ehrhartの基本定理](https://tko919.github.io/PDF-Storage/ehrhart.pdf)
+
 \
 [TOP PAGE](https://tko919.github.io)
