@@ -28,5 +28,6 @@
 ## 音ゲー
 - beatmania IIDX(SP皆伝,ID:7235-3197)
     - [クリアランプ](https://sp12.iidx.app/sheets/7235-3197/hard)
+    - [CPI](https://cpi.makecir.com/users/view/6755)
 - BMS(SP★07)
 
