@@ -22,6 +22,8 @@
     - 2024 Asia Pacific Championship: 13th
     - 2024 Yokohama Regional: 6th
     - 2025 Asia Pacific Championship: 15th
+    - 2025 Seoul Regional: 4th
+    - 2025 Yokohama Regional: 3rd
 - [Library](https://tko919.github.io/library/)
 - [はてなブログ(参加記)](https://tk0-math.hatenablog.com/)
 
