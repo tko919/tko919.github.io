@@ -14,9 +14,6 @@
 - [![TKO](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FTKO)](https://atcoder.jp/users/TKO)
 - [![tko919](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fcodeforces%2Fjson%2Ftko919)](https://codeforces.com/profile/tko919)
 - ![Project Euler](https://projecteuler.net/profile/tko919.png)
-- [Library Checker](https://judge.yosupo.jp/) MAX-2
-    - Palindromes in Deque
-    - Euclidean MST
 - ICPC (Team: Red Phobia(2023,2024), DaiMonge(2025))
     - 2023 Yokohama Regional: 12th
     - 2024 Asia Pacific Championship: 13th
@@ -24,6 +21,7 @@
     - 2025 Asia Pacific Championship: 15th
     - 2025 Seoul Regional: 4th
     - 2025 Yokohama Regional: 3rd
+    - 2026 Asia Pacific Championship: 11th
 - [Library](https://tko919.github.io/library/)
 - [はてなブログ(参加記)](https://tk0-math.hatenablog.com/)
 
