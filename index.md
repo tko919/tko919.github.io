@@ -6,7 +6,7 @@
     - 自分が認知している人々は大方通します.
 
 ## 数学
-- 微分幾何をメインに色々触っています. 最近はSeiberg-Witten theory, Floer homologyなど.
+- 微分幾何をメインに色々触っています. 最近はSeiberg-Witten theory, monopole Floer homologyなど.
 - [PDF集](math/index.md)
 
 ## 競技プログラミング
@@ -29,5 +29,5 @@
 - beatmania IIDX(SP皆伝,ID:7235-3197)
     - [クリアランプ](https://sp12.iidx.app/sheets/7235-3197/hard)
     - [CPI](https://cpi.makecir.com/users/view/6755)
-- BMS(SP★07)
+- BMS(SP★08)
 
