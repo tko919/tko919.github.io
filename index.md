@@ -24,6 +24,7 @@
     - 2026 Asia Pacific Championship: 11th
 - [Library](https://tko919.github.io/library/)
 - [はてなブログ(参加記)](https://tk0-math.hatenablog.com/)
+- [作問集](https://docs.google.com/spreadsheets/d/1vMAGmaufVGbz3HEBc18899pb2nbi4SOXmjtdRj2YYaA/edit?gid=0#gid=0)
 
 ## 音ゲー
 - beatmania IIDX(SP皆伝,ID:7235-3197)
